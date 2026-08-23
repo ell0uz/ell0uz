@@ -8,7 +8,7 @@
   />
 </a>
 
-## Hi There! I'm `monyx`
+## Hi There! I'm `ell`
 
 [![Nix Badge](https://img.shields.io/badge/Nix-blue?style=for-the-badge&logo=nixos&labelColor=black&link=%23)](https://nixos.org)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&labelColor=black)](https://discord.com/users/938080309730246677)
