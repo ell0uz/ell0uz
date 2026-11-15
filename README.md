@@ -1,4 +1,4 @@
 ell0uz
 ------
 
-![Isometric commit calendar](./metrics.plugin.isocalendar.svg)
+![Recent GitHub activity](./metrics.plugin.activity.svg)
