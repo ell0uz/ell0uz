@@ -18,6 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: ${{ github.repository_owner }}
           filename: metrics.plugin.isocalendar.svg
+          committer_message: "chore(metrics): update isometric calendar"
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
